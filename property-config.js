@@ -10,7 +10,7 @@ const propertyConfig = {
     keywords: "Venta Bodega El Toberín, Bodega en Venta Bogotá, Bodega Industrial Usaquén, Inmuebles Comerciales Bogotá, Vecy Bienes Raíces, Bodega Trifásica Bogotá",
     propertyId: "ID-BOG-TOB01",
     ogUrl: "https://bodega-toberin-bogota.netlify.app/",
-    ogImage: "https://raw.githubusercontent.com/Vecy-Bienes-Raices/Bodega-Toberin-Bogota/main/assets/57.jpg",
+    ogImage: "https://bodega-toberin-bogota.netlify.app/assets/57.jpg",
     author: "Vecy Bienes Raíces", 
     copyright: "2026"
   },
