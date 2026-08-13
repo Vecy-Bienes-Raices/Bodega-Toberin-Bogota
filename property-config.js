@@ -94,7 +94,7 @@ const propertyConfig = {
   // 8. Multimedia (Fotos y Video)
   multimedia: {
     videoUrl: "assets/recorrido.mp4", 
-    videoThumbnail: "", 
+    videoThumbnail: "assets/57.jpg", 
     imagesCount: 59, 
     imagePrefix: "assets/",
     imageExtension: ".jpg",
